@@ -1,5 +1,9 @@
-# nm_copypaste_plugin
-No more Copy-Paste Osclass Plugin will save your osclass website from copy/paste contents by spammers. Install and activate to get protected your osclass website in a minute. 
+## Nomore CopyPaste
+Nomore Copy-Paste Osclass Plugin will save osclass website from copy/paste contents by spammers. 
 
-Plugin setting has option to set which fields need to protect by copy/pasting.
+## How to use?
+* Download plugin [here] (https://drizzlethemes.com/p/nomore-copypaste-osclass-plugin/)
+* Clone the git repo — git clone https://github.com/krahamath/nm_copypaste_plugin.git
+* Install plugin and activate to get protected your osclass website in a minute. 
+* Check plugin setting and set which fields need to protect by copy/pasting.
 
